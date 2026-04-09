@@ -1,0 +1,400 @@
+# EFG International — Deep Research Report
+### Prepared for: Infosys AI Partnership Pitch
+### Date: April 2026 | Classification: Internal Use Only
+
+---
+
+## Executive Summary
+
+EFG International is a Swiss private bank at a strategic inflection point. After completing its strongest three-year cycle on record, it has entered 2026 with CHF 185bn in assets under management, a committed technology investment of CHF 130m, three acquisitions to integrate, and a CEO who has publicly staked the next cycle on the word "augment." The opportunity for Infosys is specific, timely, and directly traceable to EFG's own stated priorities. This report provides the intelligence to make that case with precision.
+
+---
+
+## 1. Company Profile
+
+| Field | Detail |
+|---|---|
+| **Full Name** | EFG International AG |
+| **Headquarters** | Zurich, Switzerland |
+| **Listed** | SIX Swiss Exchange (EFGN) |
+| **Ownership** | Majority-controlled by the Latsis family via EFG Bank European Financial Group SA (45% stake) |
+| **CEO** | Giorgio Pradelli (since 2019) |
+| **Chief People Officer** | Ioanna Archimandriti |
+| **AuM (end-2025)** | CHF 185bn |
+| **Net Profit (FY2025)** | CHF 325.2m |
+| **CROs** | 763 globally |
+| **Offices** | ~40 locations across Europe, Asia Pacific, Americas, Middle East |
+| **Employees** | ~3,800 FTEs |
+| **Primary Market** | HNW and UHNW individuals, family offices |
+| **Regulator** | FINMA (Swiss Financial Market Supervisory Authority) |
+
+---
+
+## 2. Business Model — The CRO Engine
+
+EFG's entire competitive identity is built around one structural differentiator: the Client Relationship Officer model. Unlike most private banks that centralise advisory, EFG gives each CRO full ownership of their client relationships. CROs are hired with their books. When they join EFG, their clients tend to follow.
+
+**How the model works:**
+- Each CRO manages an average book of CHF 240m+ in AuM
+- CROs act entrepreneurially — they are partners, not employees in the traditional sense
+- Revenue is directly tied to CRO headcount, productivity, and retention
+- The bank grows organically by hiring CROs away from competitors and inorganically by acquiring smaller banks and absorbing their CRO teams
+
+**The model's strength is also its vulnerability.** Because each CRO relationship is personal and non-transferable, the bank is highly exposed to CRO attrition. A CRO who leaves takes their clients. A CRO who is unproductive drags revenue. A CRO who is burdened by operational overhead produces less. This is precisely why the 2026–2028 strategy centres on "augmenting" CROs rather than replacing or restructuring them.
+
+**CRO productivity metrics (2024–2025):**
+- Average AuM per CRO: CHF 348m (end-2024), up from CHF 321m (end-2023)
+- 73 new CROs hired in 2024; target is 50–70 per year through 2028
+- 763 total CROs as of end-2025 (up 8.5% year-on-year, partly from acquisitions)
+- Mandate penetration: 67% (October 2025); target is 70–75% by end-2028
+
+The mandate penetration gap is the single most important commercial metric to understand. Each 1% increase in mandate penetration represents higher-margin, recurring advisory revenue. Getting from 67% to 75% requires CROs to spend more time advising and less time administering. Technology is the only lever that achieves this without hiring proportionally more staff.
+
+---
+
+## 3. Financial Performance
+
+### 3-Year Snapshot
+
+| Metric | FY2023 | FY2024 | FY2025 |
+|---|---|---|---|
+| Net Profit | CHF 303m | CHF 321.6m | CHF 325.2m |
+| AuM | CHF 142.2bn | CHF 165.5bn | CHF 185.0bn |
+| Net New Assets | CHF 7.5bn | CHF 10.1bn | CHF 11.3bn |
+| NNA Growth Rate | 5.3% | 7.1% | 6.8% |
+| Cost/Income Ratio | 73.3% | 72.9% | ~71.2% (excl. insurance recovery) |
+| Operating Profit | CHF 372.8m | ~CHF 391m | CHF 493.1m |
+| Revenue | ~CHF 1.45bn | ~CHF 1.57bn | CHF 1.67bn |
+| Technology Capex Cycle | — | CHF 85m (2023–2025) | CHF 130m (2026–2028) |
+
+### Key Financial Observations
+
+**Momentum is genuine.** EFG has consistently exceeded its own NNA targets (4–6% range) and hit or surpassed profit targets for three consecutive years. The 2026–2028 cycle starts from a position of real strength, not financial engineering.
+
+**Profitability is under structural pressure.** Despite strong top-line growth:
+- The cost/income ratio, while improving, remains in the low-to-mid 70s on an underlying basis. A world-class private bank targets below 65%.
+- Interest-related income is declining as rate cuts reduce the treasury margin that inflated profits in 2023–2024.
+- Three acquisitions are currently dilutive — their combined profit contribution was negative in FY2025 and is expected to turn positive only from 2026 onwards.
+
+**The cost savings mandate is real.** The CHF 70–80m savings target by end-2028 is not aspirational — it is necessary to protect the profit growth target against declining interest income and rising operational costs from acquisitions.
+
+**Litigation is a recurring risk.** In December 2025, EFG booked a CHF 59.5m litigation provision related to Kuwait's public pension fund. This follows a pattern of legacy legal issues surfacing from acquired client books. It underscores the compliance and conduct risk embedded in EFG's M&A strategy.
+
+**Legacy IT write-downs reveal a technology debt.** In 2023, EFG wrote down CHF 23.6m in intangible assets, "mainly reflecting the write-down related to legacy IT solutions that are being decommissioned and replaced." This was not a one-off — similar charges appeared in H1 2023. The bank is actively retiring old technology, which means there are infrastructure gaps that the CHF 130m capex is intended to fill.
+
+---
+
+## 4. Strategic Direction — The 2026–2028 Plan
+
+EFG published its new three-year strategic plan in November 2025. This is the most important document for any partner or vendor engaging with the bank. The plan has three pillars:
+
+### Pillar 1: Commercial Excellence
+- Maintain CRO hiring guidance of 50–70 per year
+- Roll out NextGen CRO Programme: pairing younger digitally fluent talent with experienced senior CROs to transfer institutional knowledge and accelerate ramp-up
+- Increase mandate penetration from 67% to 70–75%
+- Expand product offering: private markets, succession planning, family office services, credit solutions for strategic clients
+- New partnership with Capital Group (February 2026) to expand open-architecture investment product access for CROs
+
+### Pillar 2: Digital Augmentation of CROs
+This is the central technology pillar and the most directly relevant to Infosys.
+
+EFG has been explicit: the CHF 130m technology investment (up from CHF 85m in the prior cycle, a 53% increase) is specifically allocated to:
+- "Augmenting" CROs with better tools and analytics
+- Standardising and streamlining processes end-to-end across all regions
+- Increasing automation and digitalisation including through AI-driven solutions
+- Building operational resilience across a now-larger and more complex organisation
+
+The most significant technology move announced is the integration of BlackRock's Aladdin Wealth platform into EFG's advisory platform (November 2025). This gives CROs and Investment Counsellors access to advanced portfolio analytics, scenario modelling, risk insights, and proposal generation tools. This is the investment management intelligence layer.
+
+**What Aladdin Wealth does not cover:**
+- AI-automated workflow tools (meeting prep, note generation, client summaries)
+- KYC and onboarding automation
+- Agentic AI for back and middle office
+- Data harmonisation across acquired entities
+- AI governance and FINMA compliance framework
+
+This gap is Infosys's entry point.
+
+### Pillar 3: M&A and Capital Allocation
+- Complete integration of Cité Gestion (Swiss, CHF 7.5bn AuM)
+- Complete integration of ISG via Shaw and Partners (Australian/NZ, ~CHF 6.2bn AuM)
+- Complete acquisition of Quilvest Switzerland (CHF ~5bn AuM, expected Q3 2026)
+- All acquisitions must deliver minimum 10% ROI within 3 years of integration
+- Active pipeline for further bolt-on acquisitions
+
+---
+
+## 5. Technology Stack — Known and Inferred
+
+### Core Banking
+**Temenos T24 / Transact**
+EFG is one of Temenos's longest-standing clients and was among the very first banks to adopt the T24 platform. In 2016, when EFG acquired BSI (which ran on Avaloq's Banking Suite), the decision was made to migrate the entire BSI business onto T24. This migration completed in 2018 at a cost of CHF 80m.
+
+In 2023, EFG completed a further "successful upgrade of its Core Banking Platform in all banking booking centres globally." This was a major programme — all costs were expensed, and the bank wrote down legacy IT solutions being decommissioned as part of this work.
+
+**Implication for Infosys:** The core banking foundation is Temenos T24, now upgraded. Temenos itself is investing heavily in AI — it announced new AI products (Product Manager Co-Pilot and FCM AI Agent) in 2025, integrated with Microsoft Azure OpenAI. EFG may seek to leverage these native Temenos AI capabilities. Infosys must position its offering as complementary to — not competing with — the Temenos roadmap.
+
+### Advisory / Investment Platform
+**BlackRock Aladdin Wealth** (announced November 2025)
+This is EFG's most significant recent technology investment. Aladdin Wealth provides:
+- Comprehensive portfolio analytics across the whole book
+- Scenario modelling and risk insights
+- Proposal generation tools for CROs and Investment Counsellors
+- A single platform view for the advisory workflow
+
+This is EFG's answer to the "what analytics does the CRO see?" question. It is not an answer to the "what administrative work can we take off the CRO?" question.
+
+### Data and Reporting
+No publicly named enterprise data platform. EFG's data architecture is fragmented — multiple booking centres, multiple acquired entities, and a history of cherry-picking peripheral applications from acquired banks. The 2023 core banking upgrade improved the transactional data layer but did not solve the client data harmonisation problem across jurisdictions.
+
+### CRM
+Not publicly disclosed. Given the Temenos core banking foundation, it is likely that some CRM functionality runs through Temenos modules, supplemented by regional tools. The Aladdin Wealth integration suggests a push toward a more unified front-end but the CRM layer beneath it remains unclear.
+
+### Cloud
+No public cloud strategy statement. The 2023 core banking upgrade and legacy decommissioning suggests some modernisation toward cloud-compatible infrastructure, but EFG has not made public statements about a cloud-first or hybrid cloud position comparable to its competitors.
+
+### Compliance / AML / KYC
+No named vendor publicly disclosed. EFG's Pillar 3 disclosures reference group compliance functions covering AML, KYC, sanctions screening, and cross-border activity monitoring. These are currently largely manual or semi-automated processes — a known operational bottleneck.
+
+### Summary Technology Map
+
+| Layer | Current State | Known Vendor | AI Readiness | Gap |
+|---|---|---|---|---|
+| Core Banking | Upgraded 2023 | Temenos T24 | Medium (Temenos AI roadmap) | Integration with AI layer |
+| Advisory Intelligence | New (2025) | BlackRock Aladdin Wealth | High (analytics-focused) | Workflow automation above it |
+| CRM | Unknown | Undisclosed | Low-Medium | Unified CRM post-acquisitions |
+| Data Platform | Fragmented | Undisclosed | Low | Unified client data across entities |
+| KYC / AML / Onboarding | Manual/semi-automated | Undisclosed | Very Low | End-to-end AI automation |
+| AI Governance | Not articulated | None | None | FINMA-compliant framework |
+| Cloud Infrastructure | Partial modernisation | Undisclosed | Medium | AI-scale compute |
+| Middle/Back Office | Legacy/manual | Mixed | Very Low | Agentic AI automation |
+
+---
+
+## 6. Challenges and Pain Points
+
+### Challenge 1: The CRO Productivity Trap
+The CRO model generates revenue but consumes enormous operational resources per client relationship. Industry data consistently shows that private banking advisors spend 30–50% of their time on administrative tasks: meeting preparation, documentation, compliance checks, portfolio reporting, and client communication. At EFG, with 763 CROs each managing CHF 240m+ in AuM, reclaiming even 20% of that time has direct top-line impact. This is explicitly what the CHF 130m technology investment is designed to address — but EFG has not yet identified or built the tools to do it at scale, beyond the Aladdin Wealth analytics layer.
+
+**The mandate penetration challenge is the most quantifiable expression of this problem.** Getting from 67% to 75% mandate penetration requires CROs to have more advisory conversations. More advisory conversations require less administrative burden. Less administrative burden requires AI automation. The chain is direct and measurable.
+
+### Challenge 2: Three Acquisitions, Zero Data Unification
+In under 18 months, EFG has absorbed or is absorbing:
+- **Cité Gestion** (Switzerland, CHF 7.5bn AuM) — a Swiss-French private bank with a distinct client base and operational model
+- **ISG via Shaw and Partners** (Australia/New Zealand, ~CHF 6.2bn AuM) — operating in a completely different regulatory jurisdiction
+- **Quilvest Switzerland** (CHF ~5bn AuM, closing Q3 2026) — a Zurich-based bank with a strong Latin American footprint
+
+Each brings its own client data model, product taxonomy, CRM configuration, compliance history, and CRO culture. None of these are currently on a unified data platform. The Aladdin Wealth integration will surface data inconsistencies — portfolio analytics across four different data models will produce unreliable outputs unless the underlying data is first harmonised.
+
+Additionally, the litigation pattern — a CHF 59.5m provision in December 2025 related to an acquired client book — demonstrates that acquisition integration without deep compliance remediation creates ongoing legal exposure.
+
+**The three-year ROI clock on each acquisition has already started.** Synergies cannot materialise from entities whose data, systems, and processes remain siloed.
+
+### Challenge 3: The NextGen CRO Change Management Problem
+EFG is simultaneously trying to hire younger, digitally fluent CROs through its NextGen CRO Programme while deploying AI tools to its existing CRO network — a workforce with an entrepreneurial, relationship-first, technology-resistant culture.
+
+The Chief People Officer has acknowledged this: the most experienced CROs have "a very entrepreneurial mindset and longstanding relationships with their clients." Introducing AI tools to this population is not a training exercise — it is a cultural change management challenge. CROs who feel that AI is monitoring them, replacing their judgement, or threatening their client ownership will resist adoption. Tools must be designed with the CRO experience first, not the technology architecture first.
+
+The NextGen CRO Programme also creates an institutional knowledge transfer risk: when senior CROs retire or leave, their advisory patterns, client knowledge, and relationship insights leave with them. EFG has structured mentoring programmes to address this, but no technology solution has been deployed to capture and make reusable the institutional knowledge of its most productive advisors.
+
+### Challenge 4: FINMA Regulatory Tightening on AI
+FINMA revised its Operational Risks and Resilience circular (2023/1) effective January 2024, specifically addressing ICT risk, critical data handling, and cyber risks. FINMA has also explicitly raised concerns about AI model explainability — stating that "some AI model results cannot be understood, explained or reproduced and therefore cannot be critically assessed."
+
+Since April 2025, FINMA has further centralised its risk oversight in a new "Integrated Risk Expertise" function covering money laundering, credit risks, capital, and sustainable finance simultaneously.
+
+For EFG, this means:
+- Any AI model deployed in client-facing or compliance processes must be explainable and auditable
+- A formal AI governance framework is not optional — it is a FINMA expectation
+- Third-party AI vendors must be assessed under FINMA's outsourcing circular (2018/3)
+- EFG currently has no publicly articulated AI governance framework — a material gap as it enters a period of significant AI investment
+
+### Challenge 5: Declining Interest Income as an Earnings Headwind
+EFG benefited significantly from the high interest rate environment of 2022–2024. As rates decline, the treasury swap income and net interest income that inflated earnings are reducing. The bank's interest-related income was "slightly down versus 2024" in FY2025. This makes cost savings and mandate penetration growth — both requiring technology investment to achieve — even more critical to hitting the 15% profit growth target through 2028.
+
+### Challenge 6: Cost/Income Ratio Improvement With Rising Cost Base
+The paradox at the heart of EFG's 2028 plan: achieve CHF 70–80m in cost savings while:
+- Investing CHF 130m in technology (53% more than the prior cycle)
+- Absorbing the cost base of three acquisitions
+- Hiring 50–70 new CROs per year (each costing upfront hiring and onboarding costs before becoming productive)
+
+The only way to square this circle is for technology investment to generate operational efficiency faster than it adds cost. This requires an outcome-based approach to technology deployment — not capability delivery, but efficiency delivery.
+
+---
+
+## 7. Strengths
+
+Understanding EFG's genuine strengths is as important as its challenges — the pitch must show respect for what they have built.
+
+### Strength 1: Consistent Strategic Execution
+EFG has delivered on every three-year strategic plan it has set since 2019. In the 2023–2025 cycle, it met or exceeded all major targets — profit growth, NNA growth, cost/income improvement, and RoTE. This is not a bank in trouble; it is a bank that has earned the right to be ambitious.
+
+### Strength 2: The CRO Model Works
+The proof is in the numbers. CROs hired in 2023 and 2024 contributed significantly to 2024 NNA inflows. Average AuM per CRO is growing year-on-year. The model's self-reinforcing logic — hire the best advisors, give them the best platform, let them bring clients — has produced genuine compounding growth.
+
+### Strength 3: Strong Capital Position
+EFG's CET1 ratio is 17.1%, its total capital ratio is 20.6%, and its liquidity coverage ratio is 255% (as of H1 2025). This is a conservatively capitalised bank with genuine balance sheet strength, giving it the capacity to fund both M&A and technology investment simultaneously.
+
+### Strength 4: Geographic Diversification
+Unlike many Swiss private banks that are heavily concentrated in European HNW clients, EFG has meaningful presence across Asia Pacific (strong net new assets from APAC, "Employer of the Year" in Asia 2025), the Americas (Latin America growth driven by Quilvest, Panama office), and the Middle East. This diversification insulates it from single-market downturns and provides multiple growth vectors.
+
+### Strength 5: Open Architecture Product Model
+EFG has committed to an open-architecture investment approach — it does not push proprietary products. The Capital Group partnership (February 2026) is the most recent expression of this. This makes EFG attractive to sophisticated HNW clients who want access to best-in-class external managers rather than being sold a bank's own funds.
+
+### Strength 6: Brand and Employer Positioning
+EFG has earned "Great Place to Work" certification in Switzerland and "Employer of the Year" at the Asian Private Banker Awards in 2025. For a bank whose growth depends on attracting top CRO talent, this is a meaningful competitive advantage.
+
+---
+
+## 8. Regulatory Environment
+
+### FINMA
+Switzerland's primary financial regulator. More principles-based and less prescriptive than the ECB or FCA, but increasingly active on technology and AI risk.
+
+Key recent regulatory developments affecting EFG directly:
+
+**FINMA Circular 2023/1 — Operational Risks and Resilience (effective January 2024)**
+Completely revised the previous operational risk circular. Now explicitly covers ICT risk management, critical data handling, and cyber resilience. Financial institutions must demonstrate robust governance of technology-related operational risks. Transitional periods for certain operational resilience requirements ran until December 2025.
+
+**FINMA AI Scrutiny**
+FINMA has explicitly raised concerns about AI model explainability, stating that AI model results that "cannot be understood, explained or reproduced" create supervisory challenges. Any AI model that influences client decisions, compliance assessments, or credit decisions at a Swiss-regulated bank is expected to be explainable and auditable.
+
+**FINMA Outsourcing Circular 2018/3**
+Any material outsourcing of technology functions — including cloud services and AI platforms — must comply with FINMA's outsourcing requirements, including exit strategies, audit rights, and data sovereignty protections.
+
+**FINMA Integrated Risk Expertise (from April 2025)**
+New supervisory structure centralising oversight of liquidity, capital, credit risk, money laundering, and sustainable finance. This means a more coordinated and potentially more intensive supervisory approach across all risk dimensions simultaneously.
+
+**EU AI Act (indirect impact)**
+Although Switzerland is not an EU member, EFG operates across EU jurisdictions and is subject to EU AI Act requirements for AI systems deployed in those markets. High-risk AI applications in financial services face the strictest requirements, including explainability, human oversight, and bias testing.
+
+**Anti-Money Laundering / Cross-Border**
+EFG's compliance function explicitly covers AML, KYC, government sanctions, and cross-border activity monitoring. The CHF 59.5m litigation provision in 2025 related to an acquired client book demonstrates the real financial cost of compliance failures in acquired entities.
+
+---
+
+## 9. Competitive Landscape
+
+EFG competes in the Swiss and global private banking market against:
+
+**Julius Baer** — Most direct Swiss competitor. Larger (CHF 470bn+ AuM). Has been publicly investing in AI-augmented advisor platforms and data infrastructure. A CRO at Julius Baer with better AI tools is a direct threat to EFG CRO retention.
+
+**Pictet** — Partnership-model private bank, more conservative, less acquisition-driven. Considered the gold standard for investment management quality in Swiss private banking.
+
+**Lombard Odier** — Technology-forward private bank. Has built proprietary technology (including the Helvetia core banking platform licensed to other banks). Considered ahead of EFG on technology maturity.
+
+**UBS Wealth Management** — Vastly larger. Post-Credit Suisse acquisition, UBS is the dominant Swiss private banking force. Its scale and technology investment capacity are in a different category from EFG.
+
+**Vontobel** — Mid-tier, strong in investment products. Less CRO-dependent than EFG.
+
+**The competitive implication:** EFG's CRO model creates switching costs — clients follow their advisors. But if competitor banks offer better digital tools to their CROs, the risk is that those CROs become more productive, more satisfied, and less likely to consider moving to EFG. The technology advantage is not just about EFG's clients — it is about EFG's ability to attract and retain the best advisors.
+
+---
+
+## 10. What EFG Has Said vs. What It Has Not Said
+
+### Explicitly Stated (from EFG's own publications)
+- CHF 130m technology investment, 2026–2028
+- Goal: "augment CROs" with digital tools
+- Goal: standardise and streamline end-to-end processes across all regions
+- Goal: increase automation and digitalisation including AI-driven solutions
+- Mandate penetration target: 70–75% by end-2028
+- Cost savings target: CHF 70–80m by end-2028
+- NextGen CRO Programme: developing digitally fluent younger talent
+- BlackRock Aladdin Wealth integration: the advisory analytics layer
+- Capital Group partnership: open-architecture investment content for CROs
+
+### Implied But Not Stated
+- The data integration problem across Cité Gestion, ISG, and Quilvest is not solved
+- There is no articulated AI governance framework for FINMA compliance
+- The CRM and data layer below Aladdin Wealth are fragmented
+- KYC and onboarding remain largely manual and slow
+- The knowledge transfer risk from senior CRO retirement has no technology solution
+- The compliance and conduct risk from acquired client books has no systematic AI-powered remediation process
+- There is a CRO adoption challenge for any new technology — it has not been addressed publicly
+
+### What These Gaps Mean for the Pitch
+Every one of the unstated problems is a door. When EFG says "augment our CROs," what they mean — but have not yet defined — is:
+1. Reduce the administrative hours per CRO per week
+2. Accelerate new CRO ramp-up time to full productivity
+3. Capture and make reusable the institutional knowledge of senior CROs
+4. Ensure consistent advisory quality across 40 locations and 4 recently acquired entities
+5. Do all of this within a FINMA-compliant AI governance framework
+
+Infosys can answer every one of these.
+
+---
+
+## 11. Key People to Know
+
+| Name | Role | Relevance |
+|---|---|---|
+| **Giorgio Pradelli** | CEO | Has been in role since 2019; architect of the CRO-centric growth model; uses the word "augment" deliberately; will be in the room or briefed before it |
+| **Moz Afzal** | Chief Investment Officer | Oversees the investment platform; key stakeholder for Aladdin Wealth integration and any AI advisory tools |
+| **Andre Portelli** | Global Head of Investment & Client Solutions | Leads the Capital Group partnership and product strategy; relevant for CRO tools that touch the investment proposition |
+| **Ioanna Archimandriti** | Chief People Officer | Owns the NextGen CRO Programme; key for change management and CRO adoption strategy |
+| **Group CTO/CIO** | Not publicly named | The technology decision-maker; the Temenos relationship owner; the FINMA operational risk accountable executive |
+| **Group Head of Legal & Compliance** | Not publicly named | Will have veto power over AI deployment; FINMA compliance framework sponsor |
+
+---
+
+## 12. The Infosys Opportunity — Where It Is Specific
+
+Based on this research, the five specific areas where Infosys capability maps directly to EFG's stated and unstated needs are:
+
+**Opportunity 1: CRO Workflow Automation**
+Build the AI layer on top of Aladdin Wealth. Meeting prep, client summaries, next-best-action, document generation. Infosys Cortex platform (NVIDIA + AWS Bedrock). Metric: client-facing hours per CRO per week.
+
+**Opportunity 2: Unified Data Platform Across Acquisitions**
+Harmonise client data across Cité Gestion, ISG, and Quilvest onto a single governed data layer. Pre-condition for any AI deployment to work consistently across regions. Infosys M&A integration framework for wealth firms. Metric: data completeness and consistency score across entities.
+
+**Opportunity 3: AI-Powered KYC and Onboarding**
+Replace the current manual, multi-week process with an AI-automated front-to-back workflow. Document extraction, AML screening, regulatory mapping, digital audit trail. FINMA-compliant by design. Metric: onboarding time (target: under 7 days from current 3–4 weeks).
+
+**Opportunity 4: FINMA AI Governance Framework**
+Before EFG deploys AI at scale, it needs a governance framework. Model explainability, bias auditing, data sovereignty, FINMA circular 2023/1 compliance, EU AI Act mapping for European operations. Infosys has built this specifically for FINMA-regulated institutions — not adapted from a generic global framework.
+
+**Opportunity 5: Institutional Knowledge Capture**
+AI tools that capture, codify, and make reusable the advisory patterns of EFG's most experienced CROs. Directly supports the NextGen CRO Programme and reduces the knowledge loss risk from senior CRO retirement. Metric: time-to-productivity for new CROs.
+
+---
+
+## 13. Data Points to Use in the Pitch
+
+The following numbers come directly from EFG's own published materials. Using them in the room signals that Infosys has done its homework.
+
+- **CHF 185bn** — current AuM, highest ever
+- **763 CROs** — current headcount, up 8.5% year-on-year
+- **CHF 240m+** — average AuM per CRO (excluding recent hires)
+- **67%** — current mandate penetration; target is 70–75%
+- **CHF 130m** — technology capex committed for 2026–2028 (up 53% from prior cycle)
+- **CHF 70–80m** — cost savings target by end-2028
+- **15%** — annual net profit growth target through 2028
+- **50–70** — new CROs to be hired per year
+- **3 acquisitions in 18 months** — Cité Gestion, ISG, Quilvest
+- **CHF 11.7bn** — AuM added from Cité Gestion and ISG alone
+- **10% ROI within 3 years** — EFG's own integration target for each acquisition
+- **CHF 59.5m** — litigation provision booked December 2025 (legacy compliance risk)
+- **CHF 23.6m** — legacy IT write-down in 2023 (technology debt being retired)
+- **"Augment"** — the word EFG's CEO uses; use it back to them
+
+---
+
+## 14. Risk Factors for Infosys to Be Aware Of
+
+**The Temenos relationship is protective.** EFG has a deep, decades-long relationship with Temenos. Any Infosys proposal that appears to compete with or undermine the Temenos platform will face internal resistance. The pitch must explicitly position Infosys as building on top of T24, not replacing it.
+
+**Aladdin Wealth is a recent, high-profile commitment.** EFG has just announced the BlackRock Aladdin Wealth integration. Infosys cannot be seen as duplicating what Aladdin Wealth does. The positioning must be complementary — Aladdin Wealth handles the investment intelligence layer; Infosys handles the workflow, data, and operational automation layer beneath it.
+
+**CRO culture will resist change.** Any tool that CROs experience as surveillance, standardisation of their approach, or threat to client ownership will be rejected. Infosys must demonstrate experience building technology that CROs choose to adopt, not technology that is mandated on them.
+
+**FINMA will have opinions about AI vendors.** EFG cannot engage an AI vendor whose data practices are inconsistent with Swiss data sovereignty requirements. Infosys must be prepared to address data residency, audit rights, and exit strategy questions from the compliance function.
+
+**The ROI expectation is 2 years.** EFG's own data shows that BFS AI budgets expect ROI within two years. Infosys must be prepared to commit to measurable outcomes at defined milestones — not multi-year transformation promises.
+
+---
+
+*Sources: EFG International Annual Report 2024, EFG International FY2025 Results Presentation (February 2026), EFG International 2026–2028 Strategic Plan (November 2025), EFG International Sustainability Report 2025, EFG International Pillar 3 Disclosures H1 2024, EFG CEO and Chief People Officer interviews (Finews, Hubbis 2025–2026), Private Banker International, Finews, FinTech Futures, FINMA Circular 2023/1, Chambers Banking Regulation Switzerland 2026 Guide, Infosys HFS Research BFS AI Report 2025.*
+
+---
+
+*Report prepared by: Kamal | Infosys AI Partnership | April 2026*
